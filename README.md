@@ -23,5 +23,4 @@
 
 ## 📫 Get In Touch / Contacto
 * **Email:** owonoondomangue@gmail.com
-* **LinkedIn:** [pedrofondomangue](https://www.linkedin.com/in/pedrofondomangue)
 * **Portfolio:** [pedro-portfolio-opal.vercel.app](https://pedro-portfolio-opal.vercel.app/)
