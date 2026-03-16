@@ -9,12 +9,12 @@
 ---
 
 ## 📄 Professional Resumes / Currículums Profesionales
-* 🇬🇧 [**English Resume** (PDF)](./1_CVs_and_Resumes/CV_Pedro_Owono_Engineer_English.pdf) - *Tailored for multinational corporations (O&G, Telecom).*
-* 🇪🇸 [**Currículum en Español** (PDF)](./1_CVs_and_Resumes/CV_Pedro_Owono_Ingeniero_Espanol.pdf) - *Adaptado para entidades estatales y sector bancario.*
+* 🇬🇧 [**English Resume** (PDF)](./CV_Pedro_Owono_Engineer_English.pdf) - *Tailored for multinational corporations (O&G, Telecom).*
+* 🇪🇸 [**Currículum en Español** (PDF)](./CV_Pedro_Owono_Ingeniero_Espanol.pdf) - *Adaptado para entidades estatales y sector bancario.*
 
 ## 📚 Guides & Documentation / Guías y Documentación
 🇪🇸 **ES:** Como parte de mi compromiso para ayudar a otros graduados ecuatoguineanos, he documentado el proceso burocrático exacto necesario para homologar títulos universitarios extranjeros en nuestro país.
-* 🇬🇶 [**Guía Práctica: Homologación de Títulos Universitarios Extranjeros en G.E.** (PDF)](./2_Guides_and_Documentation/Guia_Homologacion_Titulos_Extranjeros_Guinea_Ecuatorial.pdf)
+* 🇬🇶 [**Guía Práctica: Homologación de Títulos Universitarios Extranjeros en G.E.** (PDF)](./Guia_Homologacion_Titulos_Extranjeros_Guinea_Ecuatorial.pdf)
 
 ## 🛠️ Core Competencies / Competencias Principales
 * **Industrial Systems & Hardware:** IoT, 3D Printing, CAD (SolidWorks), Edge Computing (Raspberry Pi)
@@ -23,4 +23,5 @@
 
 ## 📫 Get In Touch / Contacto
 * **Email:** owonoondomangue@gmail.com
+* **LinkedIn:** [pedrofondomangue](https://www.linkedin.com/in/pedrofondomangue)
 * **Portfolio:** [pedro-portfolio-opal.vercel.app](https://pedro-portfolio-opal.vercel.app/)
