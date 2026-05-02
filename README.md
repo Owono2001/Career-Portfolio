@@ -2,13 +2,14 @@
 **Computer Engineer (MEng & BEng Hons) | BEM Registered**
 📍 *Bata, Equatorial Guinea (Open to relocate to Malabo/Punta Europa)*
 
-Welcome to my professional repository! I am a Computer Engineer specializing in IoT, systems architecture, and AI edge computing. This repository hosts my professional resume, specifically tailored and ATS-optimized for multinational corporations in the IT, Telecom, and Oil & Gas sectors.
+Welcome to my professional repository! I am a Computer Engineer specializing in IoT, systems architecture, and AI edge computing. This repository hosts my professional resumes, tailored for multinational corporations in the Oil & Gas sector, as well as the national Banking and Telecommunications industries.
 
 ---
 
-## 📄 Professional Resume
+## 📄 Professional Resumes
 
-* [**Computer Engineering Resume** (PDF)](./CV_Pedro_Owono_Ingeniero.pdf) - *ATS-friendly. Tailored for multinational engineering and energy corporations.*
+* [**Computer Engineering Resume (English)** (PDF)](./CV_Pedro_Owono_Ingeniero.pdf) - *ATS-friendly. Tailored for multinational engineering and energy corporations.*
+* [**Computer Engineering Resume (Spanish)** (PDF)](./CV_Pedro_Owono_Ingeniero%20ES.pdf) - *Includes professional photo. Tailored for the national Banking, Corporate IT, and Telecommunications sectors.*
 
 ---
 
